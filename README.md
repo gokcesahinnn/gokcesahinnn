@@ -18,7 +18,6 @@
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&color=353535) ![Bootstrap](https://img.shields.io/badge/-Ruby-05122A?style=flat-square&logo=Ruby&color=353535) ![Bootstrap](https://img.shields.io/badge/-Selenium-05122A?style=flat-square&logo=Selenium&color=353535) ![Bootstrap](https://img.shields.io/badge/-Appium-05122A?style=flat-square&logo=Appium&color=353535) ![Bootstrap](https://img.shields.io/badge/-Rest%20Assured-05122A?style=flat-square&logo=Rest-Assured&color=353535) ![Bootstrap](https://img.shields.io/badge/-Karate-05122A?style=flat-square&logo=Karate&color=353535) ![Bootstrap](https://img.shields.io/badge/-Cypress-05122A?style=flat-square&logo=Cypress&color=353535) ![Bootstrap](https://img.shields.io/badge/-Cucumber-05122A?style=flat-square&logo=Cucumber&color=353535) ![Bootstrap](https://img.shields.io/badge/-NodeJS-05122A?style=flat-square&logo=NodeJS&color=353535) ![Static Badge](https://img.shields.io/badge/Playwright-black?logo=Playwright&color=353535)
-![Static Badge](https://img.shields.io/badge/RestAssured-black?&color=353535)
 
 <div>
   <img align="center width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokcesahinnn&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="gokcesahinnn" />
