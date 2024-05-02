@@ -4,7 +4,7 @@
 [![Mail](https://img.shields.io/badge/Mail-blue?style=flat&logo=microsoftoutlook&link=mail
 )](mailto:gsahin4344@hotmail.com) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/g%C3%B6k%C3%A7e-%C5%9Fahin/) 
 
-- 🤔 I’m currently working *Software Test Automation*
+- 🤔 I work as a *Software Test Automation Engineer and Consultant*
 
 - 📫 How to reach me: gsahin4344@hotmail.com
 
